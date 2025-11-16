@@ -1,0 +1,4 @@
+package SomaSimples;
+
+public class Main {
+}
