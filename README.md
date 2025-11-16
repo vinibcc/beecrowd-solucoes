@@ -6,10 +6,7 @@ O objetivo principal é documentar meu progresso, registrar as diferentes lógic
 
 ## Linguagens Utilizadas
 
-As soluções neste repositório são (ou serão) implementadas principalmente nas seguintes linguagens:
-
-* **Python**
-* **Java**
+As soluções neste repositório são (ou serão) implementadas principalmente na linguagem Java
 
 Eventualmente, outras linguagens podem ser adicionadas.
 
