@@ -1,0 +1,74 @@
+# Python
+###################
+# Byte-compiled/optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+*.egg-info/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files (VSCode)
+.vscode/
+
+
+# Java
+###################
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+target/
+
+# IDE files
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# NetBeans
+nbproject/
