@@ -1,0 +1,4 @@
+package Media1;
+
+public class Main {
+}
