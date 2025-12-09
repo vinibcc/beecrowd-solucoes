@@ -2,7 +2,7 @@ package Lanche;
 
 import java.util.Scanner;
 
-public class Lanche {
+public class Main {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double[] precos = {4.00, 4.50, 5.00, 2.00, 1.50};
